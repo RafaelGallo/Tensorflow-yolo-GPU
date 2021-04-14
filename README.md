@@ -11,5 +11,8 @@
 # CNN - Rede neural convolucional 
 Detecção de Objetos YOLO, Darknet 
 
+# Objetivo
+Classificar e indentificar coisas usando uma rede neural convolucional 
+
 # Framework
 Tensorflow-GPU
