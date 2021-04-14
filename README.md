@@ -13,6 +13,3 @@ Detecção de Objetos YOLO, Darknet
 
 # Framework
 Tensorflow-GPU
-
-# Resultado a detecção de objetos com Yolo e Darknet
-![Resultado 1](https://github.com/RafaelGallo/Tensorflow-yolo-GPU/blob/main/Capturar.PNG)
