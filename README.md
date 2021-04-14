@@ -5,3 +5,14 @@
 [![](https://img.shields.io/badge/CUDA-green.svg)](https://developer.nvidia.com/cuda-zone) [![](https://img.shields.io/badge/NVIDIA-green.svg)](https://www.nvidia.com/pt-br/)
 [![](https://img.shields.io/badge/Yolo-purple.svg)](https://pjreddie.com/darknet/yolo/) [![](https://img.shields.io/badge/Darknet-black.svg)](https://github.com/pjreddie/darknet)
 
+
+![Yolo-Tensorflow](https://github.com/RafaelGallo/Tensorflow-yolo-GPU/blob/main/Capturar2.PNG)
+
+# CNN - Rede neural convolucional 
+Detecção de Objetos YOLO, Darknet 
+
+# Framework
+Tensorflow-GPU
+
+# Resultado a detecção de objetos com Yolo e Darknet
+![Resultado 1](https://github.com/RafaelGallo/Tensorflow-yolo-GPU/blob/main/Capturar.PNG)
